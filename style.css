@@ -1,0 +1,64 @@
+/* NAVBAR */
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+ul {
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #333;
+    width: 100%;
+}
+
+li {
+    display: inline-block;
+    width: 80px;
+}
+
+li:hover {
+    background-color: rgb(65, 65, 65);
+}
+
+
+/* DIV 1 */
+
+#ecoinventos {
+    background-color: rgb(233, 233, 233);
+    display: inline-block;
+    margin: 4px;
+    width: 70%;
+    border-radius: 15px;
+    position: relative;
+    bottom: 140px;
+    left: 50px;
+    padding-bottom: 220px;
+}
+
+/* DIV 2 */
+
+#noticias {
+    background-color: rgb(185, 210, 226);
+    display: inline-block;
+    width: 20%;
+    border-radius: 15px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+    padding-bottom: 60px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(20, 20, 20);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
